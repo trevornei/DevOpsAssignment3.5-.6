@@ -4,3 +4,6 @@ def notMain():
 def add_nums(num1, num2):
     return num1+num2
 
+def mul_nums(num1, num2):
+    return num1*num2
+
